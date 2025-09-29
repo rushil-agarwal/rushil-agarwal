@@ -8,37 +8,20 @@
 [![Email](https://skillicons.dev/icons?i=gmail&theme=dark)](mailto:rushilbti@gmail.com)
 [![LinkedIn](https://skillicons.dev/icons?i=linkedin&theme=dark)](https://www.linkedin.com/in/rushil-agarwal-86b519298/)
 [![GitHub](https://skillicons.dev/icons?i=github&theme=dark)](https://github.com/rushil-agarwal)
-[![Resume](https://skillicons.dev/icons?i=google-drive&theme=dark)](https://drive.google.com/file/d/1-RGneUUcum_rkX2dRk6ykH6PHQcYgps_/view?usp=sharing)
+[![Resume](https://img.shields.io/badge/Resume-4285F4?style=for-the-badge&logo=google-drive&logoColor=white)](https://drive.google.com/file/d/1-RGneUUcum_rkX2dRk6ykH6PHQcYgps_/view?usp=sharing)
 
 ---
 
 ## 🔧 Technologies & Tools
 
 **Languages & Core:**  
-![Python](https://skillicons.dev/icons?i=py&theme=dark)  
-![C++](https://skillicons.dev/icons?i=cpp&theme=dark)  
-![C](https://skillicons.dev/icons?i=c&theme=dark)  
-![SQL](https://skillicons.dev/icons?i=mysql&theme=dark)
+![Python](https://skillicons.dev/icons?i=py&theme=dark) ![C++](https://skillicons.dev/icons?i=cpp&theme=dark) ![C](https://skillicons.dev/icons?i=c&theme=dark) ![SQL](https://skillicons.dev/icons?i=mysql&theme=dark)
 
 **ML / Data Stack:**  
-![TensorFlow](https://skillicons.dev/icons?i=tensorflow&theme=dark)  
-![PyTorch](https://skillicons.dev/icons?i=pytorch&theme=dark)  
-![Keras](https://img.shields.io/badge/Keras-D00000?style=flat&logo=keras&logoColor=white)  
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)  
-![pandas](https://img.shields.io/badge/pandas-150458?style=flat&logo=pandas&logoColor=white)  
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)  
-![Matplotlib](https://img.shields.io/badge/matplotlib-004C99?style=flat&logo=matplotlib&logoColor=white)  
+![TensorFlow](https://skillicons.dev/icons?i=tensorflow&theme=dark) ![PyTorch](https://skillicons.dev/icons?i=pytorch&theme=dark) ![Keras](https://img.shields.io/badge/Keras-D00000?style=flat&logo=keras&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white) ![pandas](https://img.shields.io/badge/pandas-150458?style=flat&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white) ![Matplotlib](https://img.shields.io/badge/matplotlib-004C99?style=flat&logo=matplotlib&logoColor=white)
 
 **Tools & Environments:**  
-![Git](https://skillicons.dev/icons?i=git&theme=dark)  
-![VS Code](https://skillicons.dev/icons?i=vscode&theme=dark)  
-![Linux](https://skillicons.dev/icons?i=linux&theme=dark)  
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=jupyter&logoColor=white)  
-![WSL](https://img.shields.io/badge/WSL-2D2D2D?style=flat)  
+![Git](https://skillicons.dev/icons?i=git&theme=dark) ![VS Code](https://skillicons.dev/icons?i=vscode&theme=dark) ![Linux](https://skillicons.dev/icons?i=linux&theme=dark) ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=jupyter&logoColor=white) ![WSL](https://img.shields.io/badge/WSL-2D2D2D?style=flat) ![Resume](https://img.shields.io/badge/Resume-4285F4?style=for-the-badge&logo=google-drive&logoColor=white)
 
 ---
 
-## 📊 GitHub Stats
-<div align="center">
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rushil-agarwal&layout=compact&hide=html,css" height="200em" />
-</div>
