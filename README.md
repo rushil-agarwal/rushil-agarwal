@@ -8,7 +8,7 @@
 [![Email](https://skillicons.dev/icons?i=gmail&theme=dark)](mailto:rushilbti@gmail.com)
 [![LinkedIn](https://skillicons.dev/icons?i=linkedin&theme=dark)](https://www.linkedin.com/in/rushil-agarwal-86b519298/)
 [![GitHub](https://skillicons.dev/icons?i=github&theme=dark)](https://github.com/rushil-agarwal)
-[![Resume](https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/google-drive.svg)](https://drive.google.com/file/d/1-RGneUUcum_rkX2dRk6ykH6PHQcYgps_/view?usp=sharing)
+[![Resume](https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/google-drive.svg)](https://drive.google.com/file/d/1KZ_IJqoF-lV7aH3WqPax3wmInBhFNajb/view?usp=sharing)
 
 
 ---
